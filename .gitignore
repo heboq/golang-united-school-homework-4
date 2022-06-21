@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Draft file
+draft/
+
 # Test file
 *_test.go
 
